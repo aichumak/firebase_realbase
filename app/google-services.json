@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "935061334714",
+    "firebase_url": "https://fir-databasetest-c8cba-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fir-databasetest-c8cba",
+    "storage_bucket": "fir-databasetest-c8cba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935061334714:android:83fb9e2d0b4d002f51b083",
+        "android_client_info": {
+          "package_name": "com.example.firebasedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935061334714-lk8cpdjs4ctm7qjakts4h9oo4kfkk5uo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCirF9IDROahJtJ7HXmqRDweSpX8I3QeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935061334714-lk8cpdjs4ctm7qjakts4h9oo4kfkk5uo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
